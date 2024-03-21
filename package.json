@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  },
+  "name": "jsonserver_flutter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "run server": "json-server --host 172.16.2.171 workouts.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
